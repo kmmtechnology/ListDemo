@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListDemo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="alpha">
+          <item>A</item>
+          <item>B</item>
+           <item>C</item>
+          <item>D</item>
+    </string-array>
+    <string name="empty">There is no item in the list</string>
+
+</resources>
